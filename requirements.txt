@@ -1,0 +1,4 @@
+httpx[http2]>=0.27.0
+rich>=13.7.0
+InquirerPy>=0.3.4
+colorama>=0.4.6
